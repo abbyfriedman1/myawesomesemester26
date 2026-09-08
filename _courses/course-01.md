@@ -4,7 +4,7 @@ course_code: "CMST 3214"
 course_title: "Professional Communication"
 meeting_time: "MW 10:10–11:00 AM"
 location: "Shanks Hall 160"
-instructor_name: "Professor Widgeon"
+instructor_name: "Angela Widgeon"
 instructor_title: "Professor"
 instructor_department: "Communication"
 ---
