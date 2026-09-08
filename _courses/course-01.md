@@ -1,25 +1,23 @@
 ---
 course_number: 1
-course_code: "COMM XXXX"
-course_title: "Course Title 1"
-meeting_time: "MWF 10:10–11:00 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+course_code: "CMST 3214"
+course_title: "Professional Communication"
+meeting_time: "MW 10:10–11:00 AM"
+location: "Shanks Hall 160"
+instructor_name: "Professor Widgeon"
+instructor_title: "Professor"
+instructor_department: "Communication"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
+Replace the section headings and body text below with your own
+research.
 
-## About this course
+## About Professional Communication
 
 Write a short paragraph about the course itself: what it covers, why you're taking
 it, and what you're hoping to get out of it this semester.
 
-## About Professor Name
+## About Angela Widgeon
 
 Write a short bio paragraph about your professor: their academic background, what
 they teach, and anything else that gives your friends and family a sense of who
