@@ -1,25 +1,20 @@
 ---
 course_number: 3
-course_code: "COMM XXXX"
-course_title: "Course Title 3"
-meeting_time: "MWF 1:25–2:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Professor"
-instructor_department: "Department Name"
+course_code: "JMC 2074"
+course_title: "Introduction to Sports Media"
+meeting_time: "MW 5:30–6:45 PM"
+location: "Surge Space Building 108B"
+instructor_name: "Bill Roth"
+instructor_title: "Sportscaster and Professor of Practice"
+instructor_department: "Communication"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
-
-## About this course
+## About Introduction to Sports Media
 
 Write a short paragraph about the course itself: what it covers, why you're taking
 it, and what you're hoping to get out of it this semester.
 
-## About Professor Name
+## About Bill Roth
 
 Write a short bio paragraph about your professor: their academic background, what
 they teach, and anything else that gives your friends and family a sense of who
