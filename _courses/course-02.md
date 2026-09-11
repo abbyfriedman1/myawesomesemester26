@@ -1,46 +1,31 @@
 ---
 course_number: 2
-course_code: "COMM XXXX"
-course_title: "Course Title 2"
-meeting_time: "TR 9:30–10:45 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Associate Professor"
-instructor_department: "Department Name"
+course_code: "CMST 4714"
+course_title: "The Human Communicator in an Era of AI"
+meeting_time: "MW 2:30–3:45 PM"
+location: "McBryde Hall 233"
+instructor_name: "Carlos Evia Puerto"
+instructor_title: "Professor"
+instructor_department: "Communication and Strategic Initiatives and Chief Technology"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
+## About The Human Communicator in an Era of AI
 
-## About this course
+This course is a senior seminar that explores the effects of AI in the world of communication today, and its impact on our society. In this course students will utilize Hokie AI within the coursework to get familiar with how it works, and use it when permitted to assist them with assignments. The course is centered around a paper that has to do with the main focus on the class (AI in the world of communication). I'm taking this course as a requirement for my major. I hope to gain a better understanding of the impacts of AI, as well as improve my writing skills.
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+## About Carlos Evia Puerto
 
-## About Professor Name
-
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Carlos Evia Puerto has been teaching at Virginia Tech for almost fifteen years, having multiple roles throughout his time here. His current title is professor in the Communications department and the Associate Dean of Strategic Initiatives and Chief Technology Officer. Professor Evia has extensive experience in the field. He attended Texas Tech University where he earned his PhD in Technical Communication, and also worked in the English and Technical Writing departments there before he started at Virginia Tech.
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Professor Evia spends his time researching the impacts of AI on companies and how it affects the way information is made and received. He also does lots of problem-solving in communication, utilizing technology. 
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+- Structured authoring without XML: Evaluating Lightweight DITA for technical documentation
+- Technical Communication and the Discipline of Content: Considerations for Research, Training, and Career Readiness
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Professor Evia had the role of Co-chair of Lightweight DITA subcommittee at OASIS.
