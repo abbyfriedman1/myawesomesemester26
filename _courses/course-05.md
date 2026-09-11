@@ -1,25 +1,20 @@
 ---
 course_number: 5
-course_code: "COMM XXXX"
-course_title: "Course Title 5"
-meeting_time: "MW 3:30–4:45 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Senior Instructor"
-instructor_department: "Department Name"
+course_code: "HNFE 2334"
+course_title: "Intro to Integrative Health"
+meeting_time: "T/TH 3:30–4:45 PM"
+location: "Wallace Hall 340"
+instructor_name: "Young H. Ju"
+instructor_title: "Associate Professor"
+instructor_department: "Human, Nutrition, Foods, and Exercise"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
-
-## About this course
+## About Intro to Integrative Health
 
 Write a short paragraph about the course itself: what it covers, why you're taking
 it, and what you're hoping to get out of it this semester.
 
-## About Professor Name
+## About Young H. Ju
 
 Write a short bio paragraph about your professor: their academic background, what
 they teach, and anything else that gives your friends and family a sense of who
