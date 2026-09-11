@@ -5,7 +5,7 @@ course_title: "Introduction to Sports Media"
 meeting_time: "MW 5:30–6:45 PM"
 location: "Surge Space Building 108B"
 instructor_name: "Bill Roth"
-instructor_title: "Sportscaster and Professor of Practice"
+instructor_title: "Professional Sportscaster and Professor of Practice"
 instructor_department: "Communication"
 ---
 
