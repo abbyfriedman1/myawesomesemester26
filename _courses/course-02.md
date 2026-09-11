@@ -5,7 +5,7 @@ course_title: "The Human Communicator in an Era of AI"
 meeting_time: "MW 2:30–3:45 PM"
 location: "McBryde Hall 233"
 instructor_name: "Carlos Evia Puerto"
-instructor_title: "Professor"
+instructor_title: "Professor, Associate Dean of Strategic Initiatives and Chief Technology Officer"
 instructor_department: "Communication and Strategic Initiatives and Chief Technology"
 ---
 
