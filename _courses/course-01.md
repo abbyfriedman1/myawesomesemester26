@@ -9,36 +9,21 @@ instructor_title: "Professor"
 instructor_department: "Communication"
 ---
 
-Replace the section headings and body text below with your own
-research.
-
 ## About Professional Communication
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
-
+Professional Communication explores different aspects of communication within the professional field. Throughout the course students learn about topics such as verbal and non-verbal cues, proxemic zones, communication ethics, etc. It also includes several presentation and public speaking opportunities for students to sharpen their communication skills. I'm taking this course as a requirement for my major, but also to gain a better understanding of important information relating to communication in the workplace. After taking this class, I hope to gain more confidence with public speaking and my communication skills.
 ## About Angela Widgeon
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Angela Widgeon is a professor in the School of Communication at Virginia Tech. She has been teaching for about three years in the communication department. She studied at the University of Alabama, and has had years of experience teaching communication at several different schools.
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+There wasn't a ton of information about what she researches in the faculty page, but based on her Linkedin she was lots of experience in the communication field. She has spent time teaching communication at Virginia Tech, Radford University, and Liberty University.
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+I was not able to find any publications listed for this professor.
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+I was not able to find any service or outreach work for this professor.
