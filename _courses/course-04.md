@@ -1,25 +1,20 @@
 ---
 course_number: 4
-course_code: "COMM XXXX"
-course_title: "Course Title 4"
-meeting_time: "TR 2:00–3:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+course_code: "JMC 4334"
+course_title: "Communication Ethics"
+meeting_time: "T/TR 12:30–1:45 PM"
+location: "Johnston Student Center 100"
+instructor_name: "Robin Reed"
+instructor_title: "Retired Journalist & News Reporter, and Professor of Practice"
+instructor_department: "Communication"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
-
-## About this course
+## About Communication Ethics
 
 Write a short paragraph about the course itself: what it covers, why you're taking
 it, and what you're hoping to get out of it this semester.
 
-## About Professor Name
+## About Robin Reed
 
 Write a short bio paragraph about your professor: their academic background, what
 they teach, and anything else that gives your friends and family a sense of who
