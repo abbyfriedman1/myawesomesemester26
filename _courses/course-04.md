@@ -11,31 +11,20 @@ instructor_department: "Communication"
 
 ## About Communication Ethics
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+Communication ethics explores the ethical side of communication. Throughout the course students will review case studies and discuss the ethical dilemmas involved. This class involves real life application. I'm taking this course as a requirement for my major. I hope to gain a better understanding of the rules around news when it comes to ethics.
 
 ## About Robin Reed
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Robin Reed was a news anchor for over 40 years at Roanoke's WDBJ7. He has an immense amount of experience in the news industry, and has dealt with many ethical dilemmas over the years. He is now a professor of practice in the school of Communication at Virginia Tech. He brings his own experience in the field into what he teaches.
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+I couldn't find any research interests.
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+I couldn't find any publications.
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+I couldn't find any service and outreach.
