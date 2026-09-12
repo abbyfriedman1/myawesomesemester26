@@ -11,31 +11,21 @@ instructor_department: "Communication"
 
 ## About Introduction to Sports Media
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+Introduction to Sports Media is an introduction to the basics of the sports industry. The class explores current trends within the sports field and discusses the role that money plays in sports. I'm taking this class an an elective for my major, and because it's something that I'm interested in. I hope to gain a better understanding of things going on in the sports world.
 
 ## About Bill Roth
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Bill Roth is a professional sportscaster with 39 years of experience in the field. He is currently the sportscaster for Virginia Tech Football, but also spent time at ESPN, UCLA, and Marshall. He is a professor of practice in the school of Communication.
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+There wasn't much information on his research, but he does lots of things involving broadcasting and sports.
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
+I couldn't find any publications.
 
-- Citation or title of a representative publication
-- Citation or title of another publication
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+I couldn't find any service and outreach information.
