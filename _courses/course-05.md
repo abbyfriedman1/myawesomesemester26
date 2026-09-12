@@ -15,26 +15,16 @@ Intro to Integrative Health explores the difference between Eastern and Western 
 
 ## About Young H. Ju
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Young H. Ju is an associate professor in the HNFE department at Virginia Tech. She earned her PhD from the University of Illinois at Urbana-Champaign. She has been teaching at Virginia Tech for about 15 minutes.
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+I couldn't find research interests, but her main focus in within human, nutrition, foods, and exercise.
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
-
+- Long-term exposure to dietary sources of genistein induces estrogen-independence in the human breast cancer (MCF-7) xenograft model
+- Selective Growth Inhibition of Human Breast Cancer Cells by Graviola Fruit Extract In Vitro and In Vivo Involving Downregulation of EGFR Expression
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+She is the HNFE Extension Specialist.
