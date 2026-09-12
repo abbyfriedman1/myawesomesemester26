@@ -11,8 +11,7 @@ instructor_department: "Human, Nutrition, Foods, and Exercise"
 
 ## About Intro to Integrative Health
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+Intro to Integrative Health explores the difference between Eastern and Western medicine practices, and looks at the aspect of holistic health. It also discusses different practices to help with overall well-being. I'm taking this course as a requirement for my minor- Integrative Health and Wellness. I hope to gain a more in depth understanding of holistic health.
 
 ## About Young H. Ju
 
